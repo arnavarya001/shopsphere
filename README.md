@@ -12,6 +12,23 @@
 - 📜 Order history for customers
 - 🛠️ Admin panel: add / edit / delete products, update order status
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](docs/screenshots/home.png)
+
+### Product Details
+![Product Details](docs/screenshots/product.png)
+
+### Shopping Cart
+![Shopping Cart](docs/screenshots/cart.png)
+
+### Checkout
+![Checkout](docs/screenshots/checkout.png)
+
+### Admin Dashboard
+![Admin Dashboard](docs/screenshots/admin.png)
+
 ## 🧱 Tech stack
 
 | Layer    | Tech                                   |
